@@ -6,5 +6,4 @@
     console.log(sayHi(text))
 })()
 
-
 //tsc .\01_第一次的ts.ts  编译成js文件。
